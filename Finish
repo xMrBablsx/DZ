@@ -13,7 +13,7 @@
 # Код должен содержать комментарии, а также все необходимые проверки на исключения.
 # Код должен быть максимально читаем. При написании следует прибегнуть к стандартным библиотекам тестирования!
 
-# Ссылка на GitHub https://github.com/xMrBablsx/DZ.git
+# Ссылка на GitHub https://github.com/xMrBablsx/DZ/blob/a7f3d9a99a0da7d3606fff7a922174dac4becbe3/Finish
 
 import tkinter as tk
 from tkinter import ttk
